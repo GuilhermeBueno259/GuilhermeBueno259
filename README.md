@@ -1,5 +1,6 @@
 ## Hi I'm Guilherme Bueno
-- I'm a Junior Developer
+- I'm a Junior Developer working at Aquicob
+- I like to learn new tecnologies and tools
 
 ## Languages & Tools
 <div>
